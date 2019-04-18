@@ -185,3 +185,7 @@ $RECYCLE.BIN/
 **/*.sln.ide
 
 travis-ci/accounts.json
+.vs/Square.Connect/v15/Server/sqlite3/db.lock
+.vs/Square.Connect/v15/Server/sqlite3/storage.ide
+.vs/Square.Connect/v15/Server/sqlite3/storage.ide-shm
+.vs/Square.Connect/v15/Server/sqlite3/storage.ide-wal

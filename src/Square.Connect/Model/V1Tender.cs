@@ -109,7 +109,7 @@ namespace Square.Connect.Model
             /// <summary>
             /// Enum MASTERCARD for "MASTERCARD"
             /// </summary>
-            [EnumMember(Value = "MASTERCARD")]
+            [EnumMember(Value = "MASTER_CARD")]
             MASTERCARD,
             
             /// <summary>
