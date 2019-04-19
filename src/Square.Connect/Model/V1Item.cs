@@ -75,7 +75,13 @@ namespace Square.Connect.Model
             /// </summary>
             [EnumMember(Value = "4ab200")]
             _4ab200,
-            
+
+            /// <summary>
+            /// Enum _13B1BF for 13B1BF
+            /// </summary>
+            [EnumMember(Value = "13B1BF")]
+            _13B1BF,
+
             /// <summary>
             /// Enum _0b8000 for "0b8000"
             /// </summary>
